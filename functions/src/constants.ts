@@ -1,0 +1,12 @@
+export const APP_STORE_SHARED_SECRET = "fa3a91e1feb740a2952385ded64c4121";
+export const CLOUD_REGION = "us-central1";
+export const USER_COLLECTION = "user-collection";
+export const PURCHASE_COLLECTION = "purchases-collection";
+export const OPCLO_FREE = "opclo_free";
+export const OPCLO_MONTHLY = "opclo_monthly";
+export const OPCLO_YEARLY = "opclo_yearly";
+export const OPCLO_FREE_NAME = "Free plan";
+export const OPCLO_MONTHLY_NAME = "Most Popular";
+export const OPCLO_YEARLY_NAME = "Best Value";
+export const ANDROID_PACKAGE_ID = "";
+export const GOOGLE_PLAY_PUBSUB_TOPIC = "";

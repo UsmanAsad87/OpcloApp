@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1096174460927",
+    "project_id": "opclo-d01dd",
+    "storage_bucket": "opclo-d01dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096174460927:android:28dc518a6eba90cfd051ca",
+        "android_client_info": {
+          "package_name": "com.opclollc.opclo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096174460927-3rf0rag272le3g70smmfbvk9rugtc5u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opclollc.opclo",
+            "certificate_hash": "f3dc2c654ba3ec091b3f33bdbc8a6960d2df52c2"
+          }
+        },
+        {
+          "client_id": "1096174460927-ggvgd9fk2pucvgi1fo2g9su49cbjdqi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opclollc.opclo",
+            "certificate_hash": "290ae354ecbe1f7c50a53c01f88d17407f9b2899"
+          }
+        },
+        {
+          "client_id": "1096174460927-totvq4c63lp2j7tefucq2rr8js49fhr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opclollc.opclo",
+            "certificate_hash": "2f54a91032fc741229ed81f2b8006fb234fe16c6"
+          }
+        },
+        {
+          "client_id": "1096174460927-pj3qb0125ufmbc7dlomv7ktl3t0ic4qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo9m-RwQx9lOpK4M0DBcRappnSdq2X78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096174460927-pj3qb0125ufmbc7dlomv7ktl3t0ic4qc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096174460927-j8ooho90shve2gn4e6ul7d1i5n9gtuvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.opclollc.opclo",
+                "app_store_id": "6476818278"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

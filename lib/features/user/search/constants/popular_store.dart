@@ -1,0 +1,73 @@
+import '../../../../utils/constants/assets_manager.dart';
+
+class PopularStoreConstant{
+
+  static List<String> storeName = [
+    'Starbucks',
+    'Target',
+    'McDonald’s',
+    'Walmart',
+    'Subway',
+    '7-Eleven',
+    'Aldi',
+    'Costco',
+    'Shell',
+    'Walgreens',
+    'CVS pharmacy',
+    'Best Buy',
+    'Whole Foods',
+    'Dunkin’ Donuts',
+    'Trader Joe’s',
+    'Home Depot',
+    'Lowe’s',
+    'Macy’s',
+    'PetSmart',
+    'Ace Hardware',
+  ];
+
+  static List<String> storeLogo = [
+    AppAssets.starBucks,
+    AppAssets.targetLogoImage,
+    AppAssets.mcDonaldsImage,
+    AppAssets.walmartImage,
+    AppAssets.subWayImage,
+    AppAssets.sevenElevenImage,
+    AppAssets.aldiImage,
+    AppAssets.costcoImage,
+    AppAssets.shellImage,
+    AppAssets.walgreenImage,
+    AppAssets.cvsPharmacyImage,
+    AppAssets.bestBuyImage,
+    AppAssets.wholeFoodsMarketImage,
+    AppAssets.dunkinDonutsImage,
+    AppAssets.traderJoesImage,
+    AppAssets.homeDepotImage,
+    AppAssets.lowesImage,
+    AppAssets.macysImage,
+    AppAssets.petSmartImage,
+    AppAssets.aceHardwardImage,
+  ];
+
+  static List<String> storeChainId = [
+    'ab4c54c0-d68a-012e-5619-003048cad9da',
+    'ab4b8230-d68a-012e-5619-003048cad9da',
+    'ab4a3530-d68a-012e-5619-003048cad9da',
+    'ab4b9fa0-d68a-012e-5619-003048cad9da',
+    'ab4bee40-d68a-012e-5619-003048cad9da',
+    'ab4ba0c0-d68a-012e-5619-003048cad9da',
+    '16cbce60-992b-0132-fd75-7a163eb2a6fc',
+    'ab4b52b0-d68a-012e-5619-003048cad9da',
+    '16e6c030-992b-0132-fd75-7a163eb2a6fc',
+    'ab4b4810-d68a-012e-5619-003048cad9da',
+    'ab4c24a0-d68a-012e-5619-003048cad9da',
+    'ab4affd0-d68a-012e-5619-003048cad9da',
+    'c356152c-f98c-4c43-8a1e-1d16cc9ea1c8',
+    '2cb519f8-883c-4263-860a-cd83325fbb97',
+    '6adf56af-558f-4fc8-8bb0-bfb35dd622bc',
+    '46fc4e73-67c0-4449-8639-4e34369a2e15',
+    '7fdd27b9-8e5d-4e48-b0f4-750f88702994',
+    'ab4a8de0-d68a-012e-5619-003048cad9da',
+    'fa69fcc0-e8f4-4865-a9db-fa4370eb4596',
+    'ab4c5650-d68a-012e-5619-003048cad9da',
+  ];
+}
