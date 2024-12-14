@@ -57,8 +57,12 @@
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
             android:value="mychannel" />
+
+        <!-- Add Your Google API Key -->
         <meta-data android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCK_fk5wxqwPd2NF9SPUd-y7OtZHh-c5Fo"/>
+            android:value=""/>
+
+
         <uses-library android:name="com.google.android.maps"/>
         <meta-data
             android:name="flutterEmbedding"

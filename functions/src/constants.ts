@@ -1,4 +1,4 @@
-export const APP_STORE_SHARED_SECRET = "fa3a91e1feb740a2952385ded64c4121";
+export const APP_STORE_SHARED_SECRET = "";
 export const CLOUD_REGION = "us-central1";
 export const USER_COLLECTION = "user-collection";
 export const PURCHASE_COLLECTION = "purchases-collection";
